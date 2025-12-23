@@ -3,12 +3,12 @@ Artemis Financial is a consulting company that develops individualized financial
 ## What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 After identifying vulnerabilities using industry-standard tools and frameworks, I documented each issue and explained its potential impact in Language that they could understand. Coding securely is important because it protects sensitive data, prevents breaches, and builds trust with your customers. Strong software security contributes directly to a company’s reputation and overall well-being.
 ## Which part of the vulnerability assessment was challenging or helpful to you?
-The most challenging part of vulnerability assessment was determining which vulnerabilites could be white listed.
+The most challenging part of vulnerability assessment was determining which vulnerabilities could be whitelisted.
 ## How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 I increased layers of security by implementing encryption for sensitive data and files, enforcing secure communication protocols (such as TLS), and applying secure coding practices to reduce risks like SQL injection and cross-site scripting. In the future, I would use automated vulnerability scanners, penetration testing, and frameworks like OWASP to assess vulnerabilities and select appropriate mitigation techniques.
 ## How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
-To ensure the code remained functional and secure, I first reran teh code to make sure it was still workign as it should be. I also re-ran vulnerability scans to confirm that no new issues were introduced.
+To ensure the code remained functional and secure, I first reran the code to make sure it was still working as it should be. I also re-ran vulnerability scans to confirm that no new issues were introduced.
 ## What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
-Learning how to read OWASP depencency check reports was very useful and will be very important in future assignament.
+Learning how to read OWASP Dependency-Check reports was very useful and will be very important in future assignments.
 ## Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
-I would show them the manual testing and static testing reports that I wrote up so the could understand my knowledge of vulnerabilites and how to remidiate them.
+I would show them the manual testing and static testing reports that I wrote up so they could understand my knowledge of vulnerabilities and how to remediate them.
